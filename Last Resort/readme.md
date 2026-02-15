@@ -17,52 +17,59 @@ You can make it training wheels mode for new players or suffering for veterans w
 
 ^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v
 
-======================================================  
-====    UES SAFE-VAULT : LAST RESORT EXPERIMENT   ====  
-======================================================  
-
-=== verification process initiated ===  
-File Located: lastresort.sys   
-Log Status: Recovered  
-Self-indulgence: Off the Charts  
-New Chart Subcommittee formation: Pending Approval  
+> ======================================================  
+> ====    UES SAFE-VAULT : LAST RESORT EXPERIMENT   ====  
+> ======================================================  
+> 
+> === verification process initiated ===  
+> File Located: lastresort.sys   
+> Log Status: Recovered  
+> Self-indulgence: Off the Charts  
+> New Chart Subcommittee formation: Pending Approval  
+>   
+> === begin log transmission ===  
+>   
+> TIME SINCE CRASH: IRRELEVANT  
+> HEALTH STATUS: CRITICAL  
+> HEALTH STATUS: CRITICAL
+> HEALTH STATUS: CRITICAL  
+> Expected outcome: DECEASED  
+> Expected outcome: DECEASED
+> Expected outcome: DECEASED
+> >
+> > 
+> Actual outcome: STABILIZED // DEEP HURTING IMMINENT  
+> RECOVERY METHOD: NONSTANDARD LAST RESORT  
+>   
+>  Alternative continuance measures were authorized with minimal review.
+>   
+>  This attached log below has been recovered from a noncritical subsystem moments before yet another catastrophic failure.  
   
-=== begin log transmission ===  
-  
-TIME SINCE CRASH: IRRELEVANT  
-HEALTH STATUS: CRITICAL  
-Expected outcome: DECEASED  
-Actual outcome: STABILIZED // DEEP HURTING IMMINENT  
-RECOVERY METHOD: NONSTANDARD LAST RESORT  
-  
-Alternative continuance measures were authorized with minimal review.
-  
-This attached log below has been recovered from a noncritical subsystem moments before yet another catastrophic failure.  
-  
----===---===---===---
-
-There comes a point in every survivor’s career when Petrichor V squints at them, checks the paperwork, and says: “You should be dead.”  
-
-The weary and damaged survivor thinks “Self-preservation? Surely that’s for people with a plan. I'm a busy mom on the go. There has to be a better way!”  
-
-Don't politely die as your next inevitable step after a series of repetitive blows.   
-
-A world of possibility awaits you.  
-
-Through the power of the Last Resort system, you likely get to live, you lucky duck, but why? At what cost?  
-
-The Last Resort system intervenes when you take a hit that drops your health below an  
-arbitrary percentage of your choice.  
-
-Your health can then instantly reset to the percentage of your choice.   
-
-The odds of death are slim but never zero.  
-
-In fact, reaching zero or less HP ends your delay of the inevitable.   
-
-Martyrdom isn't so bad.  
-
-Just look at all the trinkets you gathered.  
+> ---===---===---===---
+> 
+> There comes a point in every survivor’s career when Petrichor V squints at them, checks the paperwork, and says: “You should be dead.”  
+> 
+> The weary and damaged survivor thinks “Self-preservation? Surely that’s for people with a plan. I'm a busy mom on the go. There has to be a better way!”  
+> 
+> Don't politely die as your next inevitable step after a series of repetitive blows.   
+> 
+> A world of possibility awaits you.  
+> 
+> Through the power of the Last Resort system, you likely get to live, you lucky duck, but why? At what cost?  
+> 
+> The Last Resort system intervenes when you take a hit that drops your health below an  
+> arbitrary percentage of your choice.  
+> 
+> Your health can then instantly reset to the percentage of your choice.   
+> 
+> The odds of death are slim but never zero.  
+> 
+> In fact, reaching zero or less HP ends your delay of the inevitable.   
+> 
+> Martyrdom isn't so bad.  
+> 
+> Just look at all the trinkets you gathered.  
+> 
 
 Death might be comparatively merciful depending on how you set up the further consequences for defying the will of the universe and natural order to all things.  
 
@@ -74,8 +81,8 @@ Perhaps items are sacrificed for your survival.
 Perhaps the invisible hand of the director receives a small gratuity that increases the more you bumble.  
 Perhaps endless swarms of extremely motivated creatures are dispatched to your general vicinity until you learn the dangers of recreational cliff diving.  
 
-¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
-¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
+> ¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
+> ¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
 
 
 Last Resort watches your health with the same existential dread that Mithrix feels when you hop on up to the platform.  
@@ -90,21 +97,21 @@ You might end up:
 
 Maybe it's a safety net. Maybe it's an investment in chaos. Maybe she's born with it.  
 
-¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
-¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
+> ¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
+> ¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·´¯`·.¸.·  
   
-nunununununununununununununununununununununununununununununu  
-nunununun  Risk of Options – Configuration Guide  nununununu  
-nunununununununununununununununununununununununununununununu  
+> nunununununununununununununununununununununununununununununu  
+> nunununun  Risk of Options – Configuration Guide  nununununu  
+> nunununununununununununununununununununununununununununununu  
  
 Last Resort exposes its controls through Risk of Options.   
 
 There are 7 submenus, organized so that each section answers a single, sensible question, usually followed by a less sensible outcome.  
 
-_.~"~._.~"~._.~"~._.~"~._.~"~._  
-+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+  
-+-+H+ Menu 1. Activation   +H+-  
--+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H  
+> _.~"~._.~"~._.~"~._.~"~._.~"~._  
+> +-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+  
+> +-+H+ Menu 1. Activation   +H+-  
+> -+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H  
 
 * **Health Threshold (1-99%)**  
   When your HP dips below this percentage, Last Resort *tries* to do something. Whether that something is help or hilarity depends on the rest of your settings.  
@@ -145,9 +152,9 @@ _.~"~._.~"~._.~"~._.~"~._.~"~._
 
 ---
 
-+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+
-+-+H+ 2. Director Credits   +H+-
--+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H
+> +-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+
+> +-+H+ 2. Director Credits   +H+-
+> -+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H
 
 ### **2. 
 
@@ -256,3 +263,4 @@ Now go forth and save runs, ruin runs, create monsters, become a monster.
 - R2API
 
 - Risk of Options (optional but highly recommended for on the fly, moment to moment in-game configuration)
+
