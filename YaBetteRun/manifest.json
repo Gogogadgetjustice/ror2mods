@@ -1,0 +1,10 @@
+  {
+    "name": "YaBetterRun",
+    "version_number": "0.5.0",
+    "website_url": "https://github.com/gogogadgetjustice/ror2mods",
+    "description": "A survivor stepped on some vcid fungus. You are that fungus and ya better run.",
+    "dependencies": [
+      "bbepis-BepInExPack-5.4.2100",
+      "RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+  }
